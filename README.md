@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LuigiAltamura
+- 👋 Hi, I’m Luigi Altamura
 - 👀 I’m interested in everything is code! Anything interesting is welcome!
 - 🌱 I’m a MSc student in Computer Science and Engineering at Politecnico di Milano
 - 📫 How to reach me: luigialtamura98@gmail.com 
