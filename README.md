@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Luigi Altamura
-- 👀 I’m interested in everything is code!
 - 🌱 I’m a PhD student in Computer Science and Engineering at Chalmers University of Technology
 - 📫 How to reach me: luigialtamura98@gmail.com 
 
